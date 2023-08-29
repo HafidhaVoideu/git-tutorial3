@@ -1,3 +1,3 @@
 This is the first completed section of my feature.
 This is the second completed section of my feature.
-conflict2
+master resloving the conflict
